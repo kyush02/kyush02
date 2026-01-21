@@ -1,8 +1,8 @@
-# 💫 About Me :
+# 💫 About Me 
 <h3>👋 Hi, I’m <b>Kyush Kumar</b></h3><br>A <b>Computer Science Engineering</b> student 🎓 with a strong interest in <b>Python</b> 🐍, <b>Web Development</b> 🌐, and <b>C++</b> 💻. I enjoy writing logical, efficient code and understanding how software systems are built from the ground up.<br><br>I believe in learning by practice, so I spend my time improving problem-solving skills, building small projects, and exploring new technologies 🚀. I’m always focused on writing clean code, strengthening fundamentals, and growing consistently as a developer.<br><br>Currently, I’m sharpening my skills in Python, Web technologies, and C++, while continuously learning new tools and concepts to become a better software engineer 🌱.
 
 
-# 💻 Languages and Tools :
+# 💻 Languages and Tools 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
@@ -20,7 +20,7 @@
 
 
 
-## 🌐 Socials :
+## 🌐 Socials 
 <p align="center">
   <a href="https://linkedin.com/in/kyush-kumar">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -32,7 +32,7 @@
 
 
 
-# 📊 GitHub Stats :
+# 📊 GitHub Stats 
 ![](https://nirzak-streak-stats.vercel.app/?user=kyush02&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyush02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

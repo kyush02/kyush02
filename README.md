@@ -10,6 +10,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> </p> 
 
+# 🏆 Achievements
+
+<p align="left">
+🥇 <strong>Smart India Hackathon</strong> – Qualified Internal Round <em>(September 2025)</em><br>
+☁️ <strong>Google Cloud Study Jams</strong> – Successfully Completed <em>(October 2025)</em><br>
+🚀 <strong>Hack-X-Sprint Hackathon</strong> – Selected among <strong>Top 15 Teams</strong> <em>(January 2026)</em>
+</p>
+
 
 
 ## 🌐 Socials :

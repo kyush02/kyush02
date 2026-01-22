@@ -2,7 +2,7 @@
 
 <!--<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="50%" />-->
 <p align="center">
-  <img src="kk.jpg" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/kyush02/kyush02/main/items/gifgit_2.gif">
 </p>
 
 

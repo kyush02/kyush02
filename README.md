@@ -18,7 +18,7 @@
 <p align="left">
  •  🥇 <strong>Smart India Hackathon</strong> – Qualified Internal Round <em>(September 2025)</em><br>
  •  ☁️ <strong>Google Cloud Study Jams</strong> – Successfully Completed <em>(October 2025)</em><br>
- •  🚀 <strong>Hack-X-Sprint Hackathon</strong> – Selected among <strong>Top 15 Teams</strong>out of 400+ teams <em>(January 2026)</em>
+ •  🚀 <strong>Hack-X-Sprint Hackathon</strong> – Selected among <strong>Top 15 Teams</strong> from 400+ participants <em>(January 2026)</em>
 </p>
 
 

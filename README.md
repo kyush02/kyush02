@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyush02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="kyush02's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyush02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kyush02's GitHub Stats" width="49%"  />
   <img src="https://streak-stats.demolab.com/?user=kyush02&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="kyush02's GitHub Streak" width="49%" />
 </p>
 
@@ -41,7 +41,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyush02&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyush02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me

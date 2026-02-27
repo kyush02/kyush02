@@ -30,6 +30,11 @@
   <img src="https://streak-stats.demolab.com/?user=kyush02&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="kyush02's GitHub Streak" width="49%" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
 
 ## 🛠️ Languages & Tools
 
@@ -64,7 +69,9 @@
 </picture>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+</div> -->
 
+
+<img src="https://camo.githubusercontent.com/92ec704df5165e857c0bbc3d5de06c5e1b4e381f1f8d38ebc12c71776bbc7715/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3132302673656374696f6e3d666f6f746572" width="100%" alt="footer-wave" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=120&amp;section=footer" style="max-width: 100%;">

@@ -29,6 +29,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyush02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kyush02's GitHub Stats" width="49%"  />
   <img src="https://streak-stats.demolab.com/?user=kyush02&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="kyush02's GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kyush02&theme=tokyonight&radius=10" alt="kyush02's Activity Graph" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
@@ -65,8 +68,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <!-- <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" /> -->
 </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <!-- <div align="center">

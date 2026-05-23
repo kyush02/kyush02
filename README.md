@@ -9,7 +9,7 @@
 
 
 ## 📌 About Me
- A <b>Computer Science Engineering</b> student 🎓 with a strong interest in <b>Python</b> 🐍, <b>Web Development</b> 🌐, and <b>C++</b> 💻. I enjoy writing logical, efficient code and understanding how software systems are built from the ground up.
+ A <b>Computer Science Engineering</b> student 🎓 with a strong interest in <b>Python</b> 🐍, <b>Web Development</b> 🌐, and <b>C++</b> 💻. I enjoy writing logical, efficient code and understanding how software system are built from the ground up.
 
  I believe in learning by practice, so I spend my time improving problem-solving skills, building small projects, and exploring new technologies. I’m always focused on writing clean code, strengthening fundamentals, and growing consistently as a developer.
  

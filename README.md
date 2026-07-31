@@ -29,8 +29,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyush02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kyush02's GitHub Stats" width="49%"  />
   <img src="https://streak-stats.demolab.com/?user=kyush02&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="kyush02's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kyush02&theme=tokyonight&radius=10" alt="kyush02's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyush02&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 <div align="center">

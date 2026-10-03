@@ -8,8 +8,10 @@
 </p> -->
 
 <p align="center">
+  <strong>🌐 Visit My Portfolio</strong>
+  <br> <br>
   <a href="https://kyush-portfolio.vercel.app/">
-    <strong>🌐 Visit My Portfolio →</strong>
+    <img src = "portfolio.png" height = 70px width = 70px>
   </a>
 </p>
 
